@@ -9,6 +9,6 @@ from datetime import datetime, timedelta
 st.markdown("# Main page ")
 st.sidebar.markdown("# Main page ")
 
-st.write("Try Welcome to the DSS app.\n To view database related information go to database page. To vie knowledge base information go to knowledge base.")
+st.write("Welcome to the DSS app.\n To view database related information go to database page. To vie knowledge base information go to knowledge base.")
 
 
