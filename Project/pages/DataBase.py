@@ -4,7 +4,7 @@ from datetime import  timedelta
 import pandas as pd
 import io
 import copy
-!pip install streamlit openpyxl
+from streamlit import openpyxl
 
 st.set_page_config(layout="wide")
 
